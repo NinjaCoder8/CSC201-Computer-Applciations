@@ -1,6 +1,6 @@
 # CSC201-Computer-Applciations
 
-Last Updated: Spring 2017
+Last Updated: Spring 2018
 
 This repository contains the lectures and assignments given to CSC201 students at LAU Jbeil. 
 
