@@ -8,9 +8,9 @@ The course ensures that all students will acquire the basic internationally reco
 
 # Chapters
 
-1- Computer Termilogy
-2- Basic HTML
-3- Microsoft Powerpoint
-4- Microsoft Excel
-5- Microsoft Visio
-6- Microsoft Word
+1) Computer Termilogy
+2) Basic HTML
+3) Microsoft Powerpoint
+4) Microsoft Excel
+5) Microsoft Visio
+6) Microsoft Word
